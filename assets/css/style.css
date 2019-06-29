@@ -76,6 +76,22 @@ label {
     float: left;
 }
 
+.images {
+    position: relative;
+    width: 225;
+    margin: 20px;
+}
+
+.titles {
+    position: absolute;
+    width: 225px;
+    padding-top: 10px;
+    bottom: 10px;
+    background-color: #ccf0f9;
+    color: black;
+    text-align: center;
+}
+
 footer {
     clear: both;
     margin-top: 40px;
