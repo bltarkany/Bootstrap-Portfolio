@@ -1,0 +1,100 @@
+body {
+    background-image: url(../images/regal.png);
+    margin-top: 20px;
+    font-family: 'Tangerine', cursive;
+    font-size: 30px;
+    line-height: 42px;
+}
+
+
+
+.content {
+    width: 960px;
+    margin: 0 auto 0 auto;
+}
+
+.nav {
+    margin-bottom: 20px;
+    background-color: 
+}
+
+a {
+    color: #5c7aff;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+a:hover {
+    color: #44e5e7;
+}
+
+
+.container {   
+    padding: 30px;
+    background-color: white;
+    border: 1px solid #75f4f4;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+
+.jumbotron {
+    background-color: #ccf0f9;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.display-4 {
+    font-size: 6rem;
+    font-weight: 300;
+    text-align: center;
+    border-bottom: 1px solid #75f4f4;
+}
+
+.lead {
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 400;
+    border-bottom: 1px solid #75f4f4;
+}
+
+#portrait {
+    width: 225px;
+    margin-right: 20px;
+    float: left;
+}
+
+footer {
+    clear: both;
+    margin-top: 40px;
+    min-width: 1100px;
+    height: 60px;
+    text-align: center;
+    border-top: 8px solid #ccf0f9;
+    background-color: #666666;
+    color: #ffffff;
+}
+
+
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+    .container {}
+    .row {...}
+}
