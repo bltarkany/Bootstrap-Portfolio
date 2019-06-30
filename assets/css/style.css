@@ -16,7 +16,6 @@ body {
 
 .nav {
     margin-bottom: 20px;
-    background-color: 
 }
 
 a {
@@ -30,7 +29,7 @@ a:hover {
 }
 
 
-.container {   
+.container {
     padding: 30px;
     background-color: white;
     border: 1px solid #75f4f4;
@@ -99,7 +98,6 @@ footer {
     bottom: 0;
     z-index: 2;
     min-width: 100%;
-    /* min-width: 1100px; */
     height: 60px;
     text-align: center;
     border-top: 8px solid #ccf0f9;
@@ -113,13 +111,21 @@ footer {
 // No media query for `xs` since this is the default in Bootstrap
 
 // Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) { ... }
+@media (min-width: 576px) {
+    ...
+}
 
 // Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
+@media (min-width: 768px) {
+    ...
+}
 
 // Large devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
+@media (min-width: 992px) {
+    ...
+}
 
 // Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
+@media (min-width: 1200px) {
+    ...
+}
