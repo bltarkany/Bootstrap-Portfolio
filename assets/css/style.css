@@ -78,8 +78,8 @@ label {
 
 .images {
     position: relative;
-    width: 225;
-    margin: 20px;
+    width: 225px;
+    /* margin: 20px; */
 }
 
 .titles {
