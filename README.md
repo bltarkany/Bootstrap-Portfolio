@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-
+This is a basic portfolio format utilizing Bootstrap's framework. 
 
 
 ## Overview
