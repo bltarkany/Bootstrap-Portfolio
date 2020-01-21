@@ -7,24 +7,26 @@ This is a basic portfolio format utilizing Bootstrap's framework.
 
 [Demo App](https://bltarkany.github.io/Bootstrap-Portfolio/)
 
-
-Assignment One Instructions (Bootstrap)
-
-
-Inside your Bootstrap-Portfolio repo, create index.html, portfolio.html and contact.html.
-Using Bootstrap, recreate your portfolio site with the following items:
+![Portfolio Picture](https://media.giphy.com/media/eJjb50P1qArSff7tKh/giphy.gif)
 
 
-
-A navbar
-
-A responsive layout (remember the grid, rows and columns are your friends)
+Utilizing Bootstraps grid the app is responsive upon creation with the ability to added details with ease.
 
 
-eg. On an xs screen, content should take up the entire screen. On sm and larger screens, you should have some margins on the left and right side of the screen. Check out various sites on your mobile device versus your computer to see this in action!
+### Instructions
 
 
-Responsive images
+1. Inside your Bootstrap-Portfolio repo, create index.html, portfolio.html and contact.html.
+
+2. Using Bootstrap, recreate your portfolio site with the following items:
+
+      - A navbar
+
+      - A responsive layout (remember the grid, rows and columns are your friends)
+
+         eg. On an xs screen, content should take up the entire screen. On sm and larger screens, you should have some margins on the left and right side of the screen. Check out various sites on your mobile device versus your computer to see this in action!
+
+      -  Responsive images
 
 
 BONUS
